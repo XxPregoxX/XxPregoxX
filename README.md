@@ -21,16 +21,6 @@ I work across the stack — from configuring Linux servers and corporate network
 
 ---
 
-### 🚀 Featured Projects
-
-**[Server Monitor](https://github.com/XxPregoxX/ServerMonitor)** — Real-time web-based Linux server monitoring tool (CPU, memory, disk, network). Python/Flask backend, JavaScript frontend, with remote access via Cloudflare Tunnel.
-
-**[Project Shape](https://github.com/XxPregoxX/project_shape)** — Offline-capable Flutter app for diet management. Automatic macronutrient and cost calculation from custom ingredients and recipes.
-
-**[Balatro GIF Generator](https://github.com/XxPregoxX/Balatro-background-GIF-generator)** — Python tool that renders GLSL shaders on the GPU and compiles them into optimized, seamless looping GIFs via FFmpeg.
-
----
-
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-borges-839513232)
