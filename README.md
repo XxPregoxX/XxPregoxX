@@ -2,7 +2,7 @@
 
 **AI agents & automation · Linux infrastructure** · Rio Grande do Sul, Brazil · open to remote work
 
-I design and ship AI agents that run in production. Right now I'm the only technical person at an AI automation startup, building WhatsApp agents and CRM automations for clients from kickoff to support. Before that, I owned the server front in IT support for a ~290-store retail chain (~580 Linux servers).
+I design and ship AI agents that run in production. Right now I'm one of the few technical people at an AI automation startup, building WhatsApp agents and CRM automations for clients from kickoff to support. Before that, I owned the server front in IT support for a ~290-store retail chain (~580 Linux servers).
 
 I like knowing why things break, and I build my own tools when the existing ones don't do what I need.
 
